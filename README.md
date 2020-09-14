@@ -5,5 +5,10 @@
  - 20200908小米python笔试第一题[exam2](https://github.com/WeiFeiLong/exam/blob/master/xiaomi_1.py)。
  - 202009012奇安信python笔试第一题[exam3](https://github.com/WeiFeiLong/exam/blob/master/qianxin_1.py)。
  - 202009013美团第二题[exam4](https://github.com/WeiFeiLong/exam/blob/master/meituan_2.py)。
+ - 202009013爱奇艺第x题[exam5](https://github.com/WeiFeiLong/exam/blob/master/aiqiyi_x.py)。
+
+
+# 解答说明
+ - 202009013爱奇艺第x题。题目论述条例不是很清楚，不知是输出数量最大的值还是输出数量大于n/2，结果输出数量最大的值，通过100%。
 
 # 此处上传的解答都是自己做的，侵权删。
