@@ -3,15 +3,16 @@
 # 关于代码
  - 20200905搜狗后端笔试第二题[exam1](https://github.com/WeiFeiLong/exam/blob/master/sogou_2.py)。
  - 20200908小米python笔试第一题[exam2](https://github.com/WeiFeiLong/exam/blob/master/xiaomi_1.py)。
- - 202009012奇安信python笔试第一题[exam3](https://github.com/WeiFeiLong/exam/blob/master/qianxin_1.py)。
- - 202009013美团第二题[exam4](https://github.com/WeiFeiLong/exam/blob/master/meituan_2.py)。
- - 202009013爱奇艺第x题[exam5](https://github.com/WeiFeiLong/exam/blob/master/aiqiyi_x.py)。
- - 202009014百度第一题[exam6](https://github.com/WeiFeiLong/exam/blob/master/baidu_1.py)。
- - 202009014百度第二题[exam7](https://github.com/WeiFeiLong/exam/blob/master/baidu_2.py)。
- - 202009017京东第一题[exam8](https://github.com/WeiFeiLong/exam/blob/master/jd_1.py)。
- - 202009017京东第二题[exam9](https://github.com/WeiFeiLong/exam/blob/master/jd_2.py)。
- - 202009020度小满金融第二题[exam10](https://github.com/WeiFeiLong/exam/blob/master/duxiaoman_2.py)。
- - 202009025百度面试第一面[exam11](https://github.com/WeiFeiLong/exam/blob/master/baidu_face_1.py)。
+ - 20200912奇安信python笔试第一题[exam3](https://github.com/WeiFeiLong/exam/blob/master/qianxin_1.py)。
+ - 20200913美团第二题[exam4](https://github.com/WeiFeiLong/exam/blob/master/meituan_2.py)。
+ - 20200913爱奇艺第x题[exam5](https://github.com/WeiFeiLong/exam/blob/master/aiqiyi_x.py)。
+ - 20200914百度第一题[exam6](https://github.com/WeiFeiLong/exam/blob/master/baidu_1.py)。
+ - 20200914百度第二题[exam7](https://github.com/WeiFeiLong/exam/blob/master/baidu_2.py)。
+ - 20200917京东第一题[exam8](https://github.com/WeiFeiLong/exam/blob/master/jd_1.py)。
+ - 20200917京东第二题[exam9](https://github.com/WeiFeiLong/exam/blob/master/jd_2.py)。
+ - 20200920度小满金融第二题[exam10](https://github.com/WeiFeiLong/exam/blob/master/duxiaoman_2.py)。
+ - 20200925百度面试第一面[exam11](https://github.com/WeiFeiLong/exam/blob/master/baidu_face_1.py)。
+ - 20201012五八同城笔试第一题[exam12](https://github.com/WeiFeiLong/exam/blob/master/58_1.py)。
 
 # 解答说明
  - 202009013爱奇艺第x题。题目论述条例不是很清楚，不知是输出数量最大的值还是输出数量大于n/2，结果输出数量最大的值，通过100%。
