@@ -14,6 +14,7 @@
  - 20200925百度面试第一面[exam11](https://github.com/WeiFeiLong/exam/blob/master/baidu_face_1.py)。
  - 20201012五八同城笔试第一题[exam12](https://github.com/WeiFeiLong/exam/blob/master/58_1.py)。
  - 20201014广发银行笔试第一题[exam13](https://github.com/WeiFeiLong/exam/blob/master/guangfabank_1.py)。
+ - 20201014快手二面编程题[exam14](https://github.com/WeiFeiLong/exam/blob/master/kuaishou_1.py)。
 
 # 解答说明
  - 202009013爱奇艺第x题。题目论述条例不是很清楚，不知是输出数量最大的值还是输出数量大于n/2，结果输出数量最大的值，通过100%。
